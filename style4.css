@@ -1,0 +1,66 @@
+
+.text{
+    font-size: 4rem;
+    text-align: center;
+    margin-top: 250px;
+    color: aliceblue;
+
+    
+}
+
+.btn{
+ margin-top: 50px;
+ margin-left: 550px;
+ background-color: red;
+ height: 50px;
+ width: 200px;
+ border: none;
+ border-radius: 2%;
+ color: aliceblue;
+ font-size: 1.1rem;
+ cursor: pointer;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn:hover{
+    background-color: black;
+    border: 2px solid red;
+    color: red;
+    transition: all .2s ease-in;
+}
+/* .start{
+    color: whitesmoke;
+  
+}
+.end{
+   color: yellow;
+   
+    
+} 
+.start1{
+    color: yellow;
+  
+}
+.end1{
+   color: blue;
+
+    
+} 
+.start2{
+    color: blue;
+  
+}
+.end2{
+   color: green;
+
+    
+} 
+.start3{
+    color: green;
+  
+}
+.end3{
+   color: red;
+
+    
+}  */
+
